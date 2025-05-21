@@ -1,16 +1,31 @@
-# flutter_vincipizza
+🍕 Pizzeria Menu - Flutter App
+This is a Flutter application developed to simulate a digital menu for a pizzeria. The project was built for learning purposes, focusing on practicing Flutter concepts such as navigation, layout design, data handling, and responsive UI.
 
-A new Flutter project.
+🔧 Features
+List of pizzas with name, description, and price
 
-## Getting Started
+Clean, responsive, and user-friendly interface
 
-This project is a starting point for a Flutter application.
+Menu organized by categories (traditional, special, sweet, etc.)
 
-A few resources to get you started if this is your first Flutter project:
+Detailed view for each pizza item
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Optional dark mode support
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI structured for future integration with backend or online ordering
+
+🚀 Technologies Used
+Flutter (Dart)
+
+Material Design
+
+Route-based navigation
+
+Simple state management (setState / optionally Provider, Riverpod, etc.)
+
+📱 Screenshots
+(Add app screenshots here if available)
+
+📌 Purpose
+This project is intended as a learning experience in Flutter development and UI design for digital menus. It can be extended with features like a shopping cart, order system integration, and an admin panel.
+
