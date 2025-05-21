@@ -1,0 +1,303 @@
+[{
+        "id": 1,
+        "descricao": "Margherita",
+        "ingredientes": "Molho de tomate, mussarela, manjericão fresco, azeite de oliva.",
+		"imagem": "pizza-margherita.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 2,
+        "descricao": "Pepperoni",
+        "ingredientes": "Molho de tomate, mussarela, pepperoni (salame picante), orégano.",
+		"imagem": "pizza-peperoni.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 3,
+        "descricao": "Quatro Queijos",
+        "ingredientes": "Molho de tomate, mussarela, parmesão, gorgonzola, provolone.",
+		"imagem": "pizza-quatro-queijos.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 4,
+        "descricao": "Calabresa",
+        "ingredientes": "Molho de tomate, mussarela, linguiça calabresa fatiada, cebola, orégano.",
+		"imagem": "pizza-calabresa.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 5,
+        "descricao": "Frango com Catupiry",
+        "ingredientes": "Molho de tomate, mussarela, frango desfiado, Catupiry (requeijão cremoso), milho verde.",
+		"imagem": "pizza-frango-catupiry.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 6,
+        "descricao": "Portuguesa",
+        "ingredientes": "Molho de tomate, mussarela, presunto, cebola, ovos cozidos, azeitonas pretas, orégano.",
+		"imagem": "pizza-portuguesa.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 7,
+        "descricao": "Vegetariana",
+        "ingredientes": "Molho de tomate, mussarela, pimentão, cebola, champignon, milho verde, azeitonas pretas.",
+		"imagem": "pizza-vegetariana.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 8,
+        "descricao": "Atum",
+        "ingredientes": "Molho de tomate, mussarela, atum em conserva, cebola, azeitonas verdes.",
+		"imagem": "pizza-atum.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 9,
+        "descricao": "Margherita com rúcula",
+        "ingredientes": "Molho de tomate, mussarela, manjericão fresco, rúcula, tomate cereja, azeite de oliva.",
+		"imagem": "pizza-margherita-rucula.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 10,
+        "descricao": "Frango com Catupiry e Milho",
+        "ingredientes": "Molho de tomate, mussarela, frango desfiado, Catupiry, milho verde, requeijão.",
+		"imagem": "pizza-frango-catupiry-milho.jpg",
+        "categoria": "pizza",
+        "tamanhos": [{
+                "descricao": "PEQUENA",
+                "valor": 15.00
+            }, {
+                "descricao": "MÉDIA",
+                "valor": 25.00
+            }, {
+                "descricao": "GRANDE",
+                "valor": 40.00
+            }, {
+                "descricao": "FAMÍLIA",
+                "valor": 55.00
+            }
+        ]
+    }, {
+        "id": 11,
+        "descricao": "Refrigerante de Cola",
+        "ingredientes": "Um clássico refresco gaseificado, conhecido por seu sabor doce e refrescante. Ideal para acompanhar uma fatia de pizza.",
+		"imagem": "bebida-coca-cola.jpg",
+        "categoria": "bebida",
+        "tamanhos": [{
+                "descricao": "270 ml",
+                "valor": 3.50
+            }, {
+                "descricao": "350 ml",
+                "valor": 5.00
+            }, {
+                "descricao": "1 litro",
+                "valor": 7.50
+            }, {
+                "descricao": "2 litros",
+                "valor": 10.90
+            }
+        ]
+    }, {
+        "id": 12,
+        "descricao": "Suco de Laranja Natural",
+        "ingredientes": "Feito com laranjas frescas espremidas na hora, este suco é uma opção saudável e refrescante.",
+		"imagem": "bebida-suco-laranja.jpg",
+        "categoria": "bebida",
+        "tamanhos": [{
+                "descricao": "300 ml",
+                "valor": 2.99
+            }, {
+                "descricao": "500 ml",
+                "valor": 5.00
+            }, {
+                "descricao": "1 litro",
+                "valor": 9.90
+            }
+        ]
+    }, {
+        "id": 13,
+        "descricao": "Agua Mineral",
+        "ingredientes": "Feito com laranjas frescas espremidas na hora, este suco é uma opção saudável e refrescante.",
+		"imagem": "bebida-agua-mineral.jpg",
+        "categoria": "bebida",
+        "tamanhos": [{
+                "descricao": "510ml s/Gás",
+                "valor": 1.99
+            }, {
+                "descricao": "510ml s/Gás",
+                "valor": 1.49
+            }
+        ]
+    }, {
+        "id": 14,
+        "descricao": "Cerveja Artesanal",
+        "ingredientes": "Ofereça uma seleção de cervejas artesanais locais ou importadas para os clientes que desejam uma bebida alcoólica.",
+		"imagem": "bebida-cerveja-artesanal.jpg",
+        "categoria": "bebida",
+        "tamanhos": [{
+                "descricao": "350ml",
+                "valor": 12.90
+            }, {
+                "descricao": "2 litros - Glowler",
+                "valor": 29.90
+            }
+        ]
+    }, {
+        "id": 15,
+        "descricao": "Milkshake de Chocolate",
+        "ingredientes": "Para os amantes de sobremesas, um milkshake cremoso de chocolate é uma escolha indulgente e deliciosa.",
+		"imagem": "bebida-milk-shake.jpg",
+        "categoria": "bebida",
+        "tamanhos": [{
+                "descricao": "500ml",
+                "valor": 9.90
+            }
+        ]
+    }, {
+        "id": 16,
+        "descricao": "Torta Mesclada",
+        "ingredientes": "Comemore seu aniversário ou simplesmente deguste da melhor torta mesclada da cidade.",
+		"imagem": "sobremesa-torta-mesclada.jpg",
+        "categoria": "sobremesa",
+        "tamanhos": [{
+                "descricao": "Fatia",
+                "valor": 8.50
+            }, {
+                "descricao": "1Kg",
+                "valor": 69.90
+            }
+        ]
+    }, {
+        "id": 17,
+        "descricao": "Sorvete Napolitano",
+        "ingredientes": "Se foi de pizza, tem que ir de sorvete também, né! Cá entre nós, ninguém vai te julgar.",
+		"imagem": "sobremesa-sorvete-napolitano.jpg",
+        "categoria": "sobremesa",
+        "tamanhos": [{
+                "descricao": "Pote 2L",
+                "valor": 29.90
+            }
+        ]
+    }
+]
