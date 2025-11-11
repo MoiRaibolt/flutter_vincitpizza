@@ -55,11 +55,11 @@ Localization (multi-language support)
 
 Contributions are welcome! If you’d like to help:
 
-Open an issue to propose improvements or report bugs
+1. Open an issue to propose improvements or report bugs
 
-Fork the project and create your feature branch
+2. Fork the project and create your feature branch
 
-Commit your changes and submit a pull request
+3. Commit your changes and submit a pull request
 
 Please make sure your code follows good practices and is well documented.
 
