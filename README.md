@@ -1,31 +1,69 @@
-🍕 Pizzeria Menu - Flutter App
-This is a Flutter application developed to simulate a digital menu for a pizzeria. The project was built for learning purposes, focusing on practicing Flutter concepts such as navigation, layout design, data handling, and responsive UI.
+# flutter_vincitpizza 🍕  
+A digital menu app for a pizzeria built with Flutter.
 
-🔧 Features
-List of pizzas with name, description, and price
+## 📌 Overview  
+This project is a Flutter application designed to simulate a digital menu for a pizzeria. It was created primarily for learning purposes, focusing on core Flutter concepts such as navigation, layout design, data handling and responsive user interface.
 
-Clean, responsive, and user-friendly interface
+## 🎯 Features  
+- List of pizzas with names, descriptions and prices  
+- Clean, responsive, and user-friendly interface  
+- Menu organized by categories (e.g., traditional, special, sweet)  
+- Detailed view for each pizza item  
+- Optional dark mode support  
+- Code structured to allow future integration with backend services or online ordering
 
-Menu organized by categories (traditional, special, sweet, etc.)
+## 🛠 Technologies Used  
+- Flutter & Dart  
+- Material Design  
+- Route-based navigation  
+- Simple state management (via `setState`, and ready for upgrade to Provider/Riverpod)  
+- Responsive layouts (adapting to mobile screens)
 
-Detailed view for each pizza item
+## 🚀 Getting Started (for local development)  
+1. Make sure you have Flutter installed: [flutter.dev](https://flutter.dev)  
 
-Optional dark mode support
+2. Clone this repository:  
+   ```bash
+   git clone https://github.com/MoiRaibolt/flutter_vincitpizza.git
+3. Navigate into the project folder:
 
-UI structured for future integration with backend or online ordering
+    cd flutter_vincitpizza
 
-🚀 Technologies Used
-Flutter (Dart)
+4. Get dependencies:
 
-Material Design
+    flutter pub get
 
-Route-based navigation
+5. Run the app on an emulator or connected device:
 
-Simple state management (setState / optionally Provider, Riverpod, etc.)
+    flutter run
 
-📱 Screenshots
-(Add app screenshots here if available)
+🌱 Project Purpose & Future Enhancements
 
-📌 Purpose
-This project is intended as a learning experience in Flutter development and UI design for digital menus. It can be extended with features like a shopping cart, order system integration, and an admin panel.
+This project was created as a learning experience and to build a foundation for more complex Flutter apps. Potential future enhancements include:
 
+Shopping cart and checkout flow
+
+Backend integration (e.g., orders, user accounts)
+
+Admin panel for menu management
+
+Food photo gallery
+
+Localization (multi-language support)
+
+🤝 Contribution
+
+Contributions are welcome! If you’d like to help:
+
+Open an issue to propose improvements or report bugs
+
+Fork the project and create your feature branch
+
+Commit your changes and submit a pull request
+
+Please make sure your code follows good practices and is well documented.
+
+📄 License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
